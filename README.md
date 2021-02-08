@@ -1,3 +1,3 @@
 # hola-mundo
-Autor: Juan G Delgado
-Editar repositorio
+Autor: Juan Ramon Garcia Delgado
+Editar nombre autor
